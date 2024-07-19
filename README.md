@@ -1,7 +1,8 @@
 ## Tic-Tac-Toe
 
 <div align="center">
- https://github.com/durgeshpandey1998/TicTacToe/blob/master/Resources/FinalWin.gif
+<img src="https://github.com/durgeshpandey1998/TicTacToe/blob/master/Resources/FinalWin.gif" alt="Example">
+ 
 </div>
 
 This is a Player vs Player Tic Tac Toe game using C# programming language. 
