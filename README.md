@@ -43,7 +43,7 @@ This is a 2 Player game and players has to choose their respective symbols befor
 
 ## Installation
 Here are the steps to install and run the Tic-Tac-Toe game from this GitHub repository
-- Go to the GitHub repository at https://github.com/PRATHAM-099/Tic-Tac-Toe
+- Go to the GitHub repository at https://github.com/durgeshpandey1998/TicTacToe
 - Click on the green "Code" button and select "Download ZIP" to download the code as a zip file.
 - Extract the contents of the downloaded zip file to a folder on your computer.
 - Open a command prompt or terminal window and navigate to the extracted folder using the "cd" command.
